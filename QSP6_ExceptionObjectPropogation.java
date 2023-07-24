@@ -12,7 +12,6 @@ public class QSP6_ExceptionObjectPropogation
         {
             div(10,0);
         }
-
         catch (ArithmeticException ae)
         {
             System.out.println("Don't divide by zero");
