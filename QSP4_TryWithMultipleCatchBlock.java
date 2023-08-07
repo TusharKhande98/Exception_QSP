@@ -7,7 +7,7 @@ public class QSP4_TryWithMultipleCatchBlock
     public static void main(String[] args)
     {
         Scanner s = new Scanner(System.in);
-        try
+        try 
         {
             int [] arr;
             System.out.print("Enter array size:- ");
