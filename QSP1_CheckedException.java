@@ -10,6 +10,5 @@ public class QSP1_CheckedException
         }
         System.out.println("Code Terminated");
 
-
     }
 }
