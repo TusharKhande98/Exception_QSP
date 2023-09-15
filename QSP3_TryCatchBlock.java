@@ -1,7 +1,7 @@
 // here we going to caught previous code exception & make code to run as planned stop.
 import java.util.Scanner;
 public class QSP3_TryCatchBlock
-{ 
+{  
     public static void main(String[] args)
     {
         Scanner s =new Scanner(System.in);
